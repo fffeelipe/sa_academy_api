@@ -4,4 +4,5 @@ export default {
 		format: 'cjs',
 		file: 'lib/index.js'
 	}
+
 };
